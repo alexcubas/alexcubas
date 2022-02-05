@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alexsandro Cubas 👋
 
-Eu moro em Curitiba-PR Brazil, atualmente estou estudando Back-End na Trybe.
+Eu moro em Curitiba-PR Brasil, atualmente estou estudando Back-End na Trybe.
 
 ##
 
