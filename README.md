@@ -2,6 +2,8 @@
 
 Eu moro em Curitiba-PR Brasil, atualmente estou estudando Back-End na Trybe.
 
+Sempre fui apaixonado por tecnologia, desde quando conheci o mundo dos jogos, e a partir disso, minha paixão só foi aumentando . No inicio da busca pela minha carreira acabei caminhando por outras áreas, como ter uma pequena empresa de delivery, onde aprendi muito sobre liderança, organização de tempo, comunicação, gestão financeira. Mas após um tempo me vejo novamente na tecnologia, onde logo de cara ja percebi que era isso que eu queria!
+
 ##
 
 <div align="center">
