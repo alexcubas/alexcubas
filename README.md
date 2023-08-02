@@ -1,8 +1,8 @@
-### Olá! Eu sou o Alexsandro Cubas 👋
+### Hello! I'm Alexsandro Cubas 👋
 
-Eu moro em Curitiba-PR Brasil, atualmente estou estudando Back-End na Trybe.
+Currently working on Pneufree.com as a Full Stack Developer and Project Manager.
 
-Sempre fui apaixonado por tecnologia, desde quando conheci o mundo dos jogos, e a partir disso, minha paixão só foi aumentando . No inicio da busca pela minha carreira acabei caminhando por outras áreas, como ter uma pequena empresa de delivery, onde aprendi muito sobre liderança, organização de tempo, comunicação, gestão financeira. Mas após um tempo me vejo novamente na tecnologia, onde logo de cara ja percebi que era isso que eu queria!
+I started my career with personal projects and the course Trybe, after it I got my first job opportunity as a Front-End developer on Pneufree.com, over the time I gained TI experience: E-commerce, Sales, Teamwork, and leadership.
 
 ##
 
@@ -32,7 +32,11 @@ Sempre fui apaixonado por tecnologia, desde quando conheci o mundo dos jogos, e 
 </div>
   
   ##
-  
+  <div align="center">
+    <a href="https://open.spotify.com/user/67HtXMpjYS77EhkaqZYv5U" target="_blank">
+      <img src="https://luk4x-spotify-readme.vercel.app/api?theme=white&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
+    </a>
+  </div>
   <div align="center"> 
  	<a href="https://github.com/alexcubas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/alexsandro-cubas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
