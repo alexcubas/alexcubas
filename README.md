@@ -1,14 +1,16 @@
 ### Hello! I'm Alexsandro Cubas 👋
 
-Currently working on Pneufree.com as a Full Stack Developer and Project Manager.
+Currently working at Pneufree.com as a Full Stack Developer and Project Manager.
 
-I started my career with personal projects and the course Trybe, after it I got my first job opportunity as a Front-End developer on Pneufree.com, over the time I gained TI experience: E-commerce, Sales, Teamwork, and leadership.
+I embarked on my career with personal projects and further honed my skills by enrolling in a comprehensive course named Trybe, where I delved into both front-end and back-end development using JavaScript. This transformative experience propelled my learning to new heights. Shortly after commencing the course, I seized the opportunity to contribute as a Front-End Developer at Pneufree.com. Along this rewarding journey, I gained invaluable expertise in IT, E-commerce, Sales, Team Projects, and honed my leadership abilities.
+
+Currently with 2 years of experience in web development.
 
 ##
   
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="255px">
+<table align="right" height="255px" w="600px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -39,6 +41,16 @@ I started my career with personal projects and the course Trybe, after it I got 
           </b>
         </sub>
       </a>
+          <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     </td>
         <td align="center">
       <a href="https://react-hook-form.com/">
@@ -92,6 +104,16 @@ I started my career with personal projects and the course Trybe, after it I got 
         </sub>
      </a>
     </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -130,38 +152,6 @@ I started my career with personal projects and the course Trybe, after it I got 
         <sub>
           <b>
             <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
           </b>
         </sub>
       </a>
