@@ -6,8 +6,10 @@ I embarked on my career with personal projects and further honed my skills by en
 
 Currently with 2 years of experience in web development.
 
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=alexcubas&repo=alexcubas&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Alexsandro cubas" height="40px" />
+</div>
 ##
-  
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px" w="600px">
@@ -53,7 +55,7 @@ Currently with 2 years of experience in web development.
     </td>
     </td>
         <td align="center">
-      <a href="https://react-hook-form.com/">
+      <a href="https://www.mongodb.com/">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="65px" alt="React Hook Form icon"/><br/>
         <sub>
           <b>
@@ -172,8 +174,8 @@ Currently with 2 years of experience in web development.
   
   ##
   <div align="center">
-    <a href="https://open.spotify.com/user/67HtXMpjYS77EhkaqZYv5U" target="_blank">
-      <img src="https://luk4x-spotify-readme.vercel.app/api?theme=white&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
+    <a href="https://open.spotify.com/user/12168292762" target="_blank">
+      <img src="https://luk4x-spotify-readme.vercel.app/api?theme=white&scan=true" alt="Música que está tocando no Spotify do Alexsandro Cubas no momento" />
     </a>
   </div>
   <br/><br/>
