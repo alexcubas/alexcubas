@@ -42,11 +42,10 @@ I started my career with personal projects and the course Trybe, after it I got 
  <a href="https://www.linkedin.com/in/alexsandro-cubas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "alex_cubas1.0@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   
-  ![Snake animation](https://github.com/alexcubas/alexcubas/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-  
-  ##
-## Languages and Tools
+<br/><br/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alexcubas&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
 
 
