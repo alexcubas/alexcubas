@@ -6,9 +6,6 @@ I embarked on my career with personal projects and further honed my skills by en
 
 Currently with 2 years of experience in web development.
 
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=alexcubas&repo=alexcubas&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Alexsandro cubas" height="40px" />
-</div>
 ##
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
