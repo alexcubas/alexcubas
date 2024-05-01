@@ -173,12 +173,6 @@ Currently with 2 years of experience in web development.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ##
-  <div align="center">
-    <a href="https://open.spotify.com/user/12168292762" target="_blank">
-      <img src="https://luk4x-spotify-readme.vercel.app/api?theme=white&scan=true" alt="Música que está tocando no Spotify do Alexsandro Cubas no momento" />
-    </a>
-  </div>
-  <br/><br/>
 <img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
 <img align="right" width="185px" src="./images/just-existing.gif" alt="Girl working with programming"/>
 <br/><br/>
