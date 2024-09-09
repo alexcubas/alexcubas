@@ -4,7 +4,7 @@ Currently working at Pneufree.com as a Full Stack Developer and Project Manager.
 
 I embarked on my career with personal projects and further honed my skills by enrolling in a comprehensive course named Trybe, where I delved into both front-end and back-end development using JavaScript. This transformative experience propelled my learning to new heights. Shortly after commencing the course, I seized the opportunity to contribute as a Front-End Developer at Pneufree.com. Along this rewarding journey, I gained invaluable expertise in IT, E-commerce, Sales, Team Projects, and honed my leadership abilities.
 
-Currently with 2 years of experience in web development.
+Currently with 3 years of experience in web development.
 
 ##
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="Título da seção Minha Stack" />
